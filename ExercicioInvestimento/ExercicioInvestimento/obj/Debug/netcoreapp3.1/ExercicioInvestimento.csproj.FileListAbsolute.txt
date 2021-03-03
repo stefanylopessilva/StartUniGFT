@@ -1,0 +1,13 @@
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimento\ExercicioInvestimento\bin\Debug\netcoreapp3.1\ExercicioInvestimento.exe
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimento\ExercicioInvestimento\bin\Debug\netcoreapp3.1\ExercicioInvestimento.deps.json
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimento\ExercicioInvestimento\bin\Debug\netcoreapp3.1\ExercicioInvestimento.runtimeconfig.json
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimento\ExercicioInvestimento\bin\Debug\netcoreapp3.1\ExercicioInvestimento.runtimeconfig.dev.json
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimento\ExercicioInvestimento\bin\Debug\netcoreapp3.1\ExercicioInvestimento.dll
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimento\ExercicioInvestimento\bin\Debug\netcoreapp3.1\ExercicioInvestimento.pdb
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimento\ExercicioInvestimento\obj\Debug\netcoreapp3.1\ExercicioInvestimento.csprojAssemblyReference.cache
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimento\ExercicioInvestimento\obj\Debug\netcoreapp3.1\ExercicioInvestimento.AssemblyInfoInputs.cache
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimento\ExercicioInvestimento\obj\Debug\netcoreapp3.1\ExercicioInvestimento.AssemblyInfo.cs
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimento\ExercicioInvestimento\obj\Debug\netcoreapp3.1\ExercicioInvestimento.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimento\ExercicioInvestimento\obj\Debug\netcoreapp3.1\ExercicioInvestimento.dll
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimento\ExercicioInvestimento\obj\Debug\netcoreapp3.1\ExercicioInvestimento.pdb
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimento\ExercicioInvestimento\obj\Debug\netcoreapp3.1\ExercicioInvestimento.genruntimeconfig.cache

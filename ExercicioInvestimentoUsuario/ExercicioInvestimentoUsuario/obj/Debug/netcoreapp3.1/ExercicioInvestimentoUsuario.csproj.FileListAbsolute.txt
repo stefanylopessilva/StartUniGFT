@@ -1,0 +1,13 @@
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimentoUsuario\ExercicioInvestimentoUsuario\obj\Debug\netcoreapp3.1\ExercicioInvestimentoUsuario.csprojAssemblyReference.cache
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimentoUsuario\ExercicioInvestimentoUsuario\obj\Debug\netcoreapp3.1\ExercicioInvestimentoUsuario.AssemblyInfoInputs.cache
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimentoUsuario\ExercicioInvestimentoUsuario\obj\Debug\netcoreapp3.1\ExercicioInvestimentoUsuario.AssemblyInfo.cs
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimentoUsuario\ExercicioInvestimentoUsuario\obj\Debug\netcoreapp3.1\ExercicioInvestimentoUsuario.csproj.CoreCompileInputs.cache
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimentoUsuario\ExercicioInvestimentoUsuario\bin\Debug\netcoreapp3.1\ExercicioInvestimentoUsuario.exe
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimentoUsuario\ExercicioInvestimentoUsuario\bin\Debug\netcoreapp3.1\ExercicioInvestimentoUsuario.deps.json
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimentoUsuario\ExercicioInvestimentoUsuario\bin\Debug\netcoreapp3.1\ExercicioInvestimentoUsuario.runtimeconfig.json
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimentoUsuario\ExercicioInvestimentoUsuario\bin\Debug\netcoreapp3.1\ExercicioInvestimentoUsuario.runtimeconfig.dev.json
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimentoUsuario\ExercicioInvestimentoUsuario\bin\Debug\netcoreapp3.1\ExercicioInvestimentoUsuario.dll
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimentoUsuario\ExercicioInvestimentoUsuario\bin\Debug\netcoreapp3.1\ExercicioInvestimentoUsuario.pdb
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimentoUsuario\ExercicioInvestimentoUsuario\obj\Debug\netcoreapp3.1\ExercicioInvestimentoUsuario.dll
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimentoUsuario\ExercicioInvestimentoUsuario\obj\Debug\netcoreapp3.1\ExercicioInvestimentoUsuario.pdb
+C:\Users\Stefany\Documents\Bootcamp - GFT\STARTUNIGFT\ExercicioInvestimentoUsuario\ExercicioInvestimentoUsuario\obj\Debug\netcoreapp3.1\ExercicioInvestimentoUsuario.genruntimeconfig.cache
